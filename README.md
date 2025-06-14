@@ -20,7 +20,7 @@ visual demonstration from [deepia](https://www.youtube.com/@Deepia-ls2fo) youtub
 
 some fun results: 
 
-### 1. for vanila AE
+### note: it is only the mnist dataset and it is not that complex so it does not matter if its vanila or conv but i have implemented both!
 
 note: first row -> original images, second row -> reconstructions 
 
@@ -30,4 +30,7 @@ note: first row -> original images, second row -> reconstructions
 - latent dimension = 32
 ![img1](img/vanila_32_out.png)
 
-### 2. for convulational AE
+*todo*: 
+- [ ] add more datasets  
+- [ ] change the repo to prod manner instead of one jupyter file 
+- [ ] add more modifications 
