@@ -16,4 +16,4 @@ as we will increase the latent space size the reconstruction quality will increa
 
 visual demonstration from [deepia](https://www.youtube.com/@Deepia-ls2fo) youtube channel:
 
-![alt text](image.png)
+![text](latent_space.png)
