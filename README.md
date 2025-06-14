@@ -17,3 +17,17 @@ as we will increase the latent space size the reconstruction quality will increa
 visual demonstration from [deepia](https://www.youtube.com/@Deepia-ls2fo) youtube channel:
 
 ![text](img/latent_space.png)
+
+some fun results: 
+
+### 1. for vanila AE
+
+note: first row -> original images, second row -> reconstructions 
+
+- latent dimension = 8
+![img](img/vanila_8_out.png)
+
+- latent dimension = 32
+![img1](img/vanila_32_out.png)
+
+### 2. for convulational AE
